@@ -15,7 +15,7 @@ const Footer = () => {
             
             <footer className="flex flex-col items-center justify-center w-full py-20 bg-gradient-to-b from-[#5524B7] to-[#380B60] text-white/70">
                    <span className='text-white font-bold'>NextReduxToolkit</span>
-                <p className="mt-4 text-center">Copyright © 2025 <a href="https://prebuiltui.com">PrebuiltUI</a>. All rights reservered.</p>
+                <p className="mt-4 text-center">Copyright © 2025 <Link href="/">NextReduxToolkit</Link>. All rights reservered.</p>
                 <div className="flex items-center gap-4 mt-5">
                     <Link href="#" className="hover:-translate-y-0.5 transition-all duration-300">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
